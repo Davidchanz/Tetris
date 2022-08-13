@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../2DEngine/2DEngine.iml" filepath="$PROJECT_DIR$/../2DEngine/2DEngine.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../MatrixTransforms/MatrixTransforms.iml" filepath="$PROJECT_DIR$/../MatrixTransforms/MatrixTransforms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tetris.iml" filepath="$PROJECT_DIR$/Tetris.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../UnityMath/UnityMath.iml" filepath="$PROJECT_DIR$/../UnityMath/UnityMath.iml" />
     </modules>
   </component>
 </project>
