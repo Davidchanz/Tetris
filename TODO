@@ -1,0 +1,31 @@
+/**
+ *                      Tetris some more than 1 houre but few than day in res 6 hour but res more good then those gay
+ *
+ *          BugFixes
+ *              TODO 10.08.22 Camera fix
+ *              TODO 10.08.22 Rotate fix
+ *              TODO 10.08.22 Explosive fix
+ *                  some bug when explosive 3 or maybe more blocks not sure
+ *              TODO 10.08.22 Game has lags if play some time maybe memory overflow
+ *
+ *          Change Color When lvl up
+ *
+ *
+ *              1   2   3
+ *
+ *              0   0   1
+ *              0   1   0
+ *              0   1   1
+ *              1   0   0
+ *              1   0   1
+ *              1   1   0
+ *              1   1   1
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * */
